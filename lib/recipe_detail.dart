@@ -119,7 +119,7 @@ class _RecipeDetailState extends State<RecipeDetail>{
                       _sliderVal = newValue.round();
                     });
                   },
-                  activeColor: Colors.green,
+                  activeColor: Colors.orange,
                   inactiveColor: Colors.black,
                 ),
               ],
